@@ -1,0 +1,3 @@
+{
+    "database_url": "postgres://postgres:ssossosso@localhost:5432/postgres"
+}
